@@ -282,7 +282,7 @@ Vagrant.configure(2) do |config|
             config.cache.scope = :box
         end
 
-		host12.vm.hostname = "host34"
+		host12.vm.hostname = "host12"
 		host12.vm.network "private_network", virtualbox__intnet: "l1h12", auto_config: false
 	  
 		host12.vm.provider "virtualbox" do |v|
