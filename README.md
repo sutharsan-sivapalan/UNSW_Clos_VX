@@ -4,6 +4,7 @@ Replica of current network topology using Cumulus VX, Vagrant, VirtualBox & Ansi
 
 
 #### Prerequisites
+Please download, install and configure the following prior to proceeding:
   * Download the Cumulus VX version 3.0.0 file for Vagrant Box.
    * https://cumulusnetworks.com/cumulus-vx/download/
   * VirtualBox must be installed.
