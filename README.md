@@ -1,6 +1,6 @@
 # UNSW_Clos_VX
 
-Replica of current network topology using Cumulus VX, Vagrant, VirtualBox & Ansible.
+Replica of current UNSW network topology using Cumulus VX, Vagrant, VirtualBox & Ansible.
 
 
 #### Prerequisites
